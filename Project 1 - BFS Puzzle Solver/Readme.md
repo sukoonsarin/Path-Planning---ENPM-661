@@ -1,4 +1,5 @@
-8 Puzzle Solver : Using Breadth First Search(BFS) Algorithm
+8 Puzzle Solver: 
+Using Breadth First Search(BFS) Algorithm.
 The project has been written in Python 3.7.6.
 
 Instructions: 
